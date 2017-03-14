@@ -1,0 +1,24 @@
+{
+  "name": "mean-project",
+  "version": "1.0.0",
+  "description": "Mean Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gappo3/mean-project.git"
+  },
+  "author": "gappo3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gappo3/mean-project/issues"
+  },
+  "homepage": "https://github.com/gappo3/mean-project#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.24"
+  }
+}
